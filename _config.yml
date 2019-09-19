@@ -41,6 +41,8 @@ avatar: "/img/pavanbreddy.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Pavan Reddy Bommana
+  
+social-network-links:
   email: "pbommana@cs.umass.edu"
   github: pavanbreddy    # eg. daattali
   facebook: pavanbreddy
